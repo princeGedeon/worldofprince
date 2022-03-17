@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/worldofprince/static/css/main.4fecfb14.css",
+    "main.js": "/worldofprince/static/js/main.9b3ad502.js",
+    "static/media/main.jpg": "/worldofprince/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/worldofprince/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/worldofprince/index.html",
+    "main.4fecfb14.css.map": "/worldofprince/static/css/main.4fecfb14.css.map",
+    "main.9b3ad502.js.map": "/worldofprince/static/js/main.9b3ad502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fecfb14.css",
+    "static/js/main.9b3ad502.js"
+  ]
+}
