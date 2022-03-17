@@ -2,7 +2,8 @@
   "name": "monde_drapeau_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://princeGedeon.github.io/worldofprince/",
+  "homepage": "https://princegedeon.github.io/worldofprince",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",

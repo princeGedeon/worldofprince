@@ -9,7 +9,7 @@ export default function() {
         <Navigation/>
         <h1>About</h1>
         <br/>
-        <div style="margin:15px;padding:15px;">
+        <div>
         <h1>Prince Gédéon GUEDJE</h1>
         <h3> Nice to meet you! 👋</h3>
         <p> 
